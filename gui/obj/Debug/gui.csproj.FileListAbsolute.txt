@@ -1,0 +1,26 @@
+C:\Users\yumna\OneDrive\Desktop\gui\gui\bin\Debug\gui.exe.config
+C:\Users\yumna\OneDrive\Desktop\gui\gui\bin\Debug\gui.exe
+C:\Users\yumna\OneDrive\Desktop\gui\gui\bin\Debug\gui.pdb
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.csproj.AssemblyReference.cache
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.Form1.resources
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.Properties.Resources.resources
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.csproj.GenerateResource.cache
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.csproj.CoreCompileInputs.cache
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.exe
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.pdb
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.Form2.resources
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.Form3.resources
+C:\Users\yumna\OneDrive\Desktop\gui\gui\obj\Debug\gui.Form4.resources
+C:\Users\Dell\Desktop\c# shits\zumar\gui\bin\Debug\gui.exe.config
+C:\Users\Dell\Desktop\c# shits\zumar\gui\bin\Debug\gui.exe
+C:\Users\Dell\Desktop\c# shits\zumar\gui\bin\Debug\gui.pdb
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.Form1.resources
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.Form2.resources
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.Form3.resources
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.Form4.resources
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.Properties.Resources.resources
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.exe
+C:\Users\Dell\Desktop\c# shits\zumar\gui\obj\Debug\gui.pdb
